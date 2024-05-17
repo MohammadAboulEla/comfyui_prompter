@@ -1,4 +1,4 @@
-forked from ### comfyui_dagthomas
+## comfyui_dagthomas
 
 Custom nodes for ComfyUI
 
